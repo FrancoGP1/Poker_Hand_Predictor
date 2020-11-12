@@ -4,3 +4,6 @@ This repository contains 2 implementations of the same data set of Poker acquire
 Information About the program
 
 https://medium.com/@francogarciap/poker-hand-predictor-9f466a4f4884
+
+Results
+https://medium.com/@francogarciap/poker-hand-predictor-results-7573d7fbf31b
